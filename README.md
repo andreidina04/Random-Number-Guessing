@@ -17,4 +17,4 @@ If your guess is incorrect, you will be told whether the correct number is highe
 If you run out of attempts, the game will reveal the correct number and end.
 
 Project from roadmap.sh by Andrei Dina, made in C++
-https://github.com/andreidina04/Random-Number-Guessing
+[https://github.com/andreidina04/Random-Number-Guessing](https://roadmap.sh/projects/number-guessing-game)
